@@ -31,22 +31,6 @@
           "source": "data:,coreos"
         },
         "mode": 420
-      },
-      {
-        "overwrite": true,
-        "path": "/etc/NetworkManager/system-connections/enp0s3.nmconnection",
-        "contents": {
-          "source": "data:,%0A%5Bconnection%5D%0Atype%3Dethernet%0Aid%3D%22NAT%22%0Ainterface-name%3Denp0s3%0A%0A%5Bipv4%5D%0Amethod%3Dmanual%0Aaddresses%3D10.0.2.15%2F24%0Agateway%3D10.0.2.255%0Adns%3D8.8.8.8%0A"
-        },
-        "mode": 384
-      },
-      {
-        "overwrite": true,
-        "path": "/etc/NetworkManager/system-connections/enp0s8.nmconnection",
-        "contents": {
-          "source": "data:,%0A%5Bconnection%5D%0Atype%3Dethernet%0Aid%3D%22host%20network%22%0Ainterface-name%3Denp0s8%0A%0A%5Bipv4%5D%0Amethod%3Dmanual%0Aaddresses%3D192.168.60.31%2F24%0Agateway%3D192.168.60.255%0Adns%3D192.168.60.255%3B8.8.8.8%0A"
-        },
-        "mode": 384
       }
     ]
   }
