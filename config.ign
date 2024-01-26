@@ -6,7 +6,6 @@
     "users": [
       {
         "groups": [
-          "podman",
           "wheel",
           "sudo"
         ],
