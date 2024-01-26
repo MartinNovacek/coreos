@@ -2,7 +2,7 @@ variant: fcos
 version: 1.4.0
 passwd:
   users:
-    - name: ocp
+    - name: core
       password_hash: $y$j9T$qYp1DeFbgKiWlGyZkavX3.$Ya6S2sbmfS6U4a2YxPjAdvzDgdQOzUvpEjLcYcbnZLA
       ssh_authorized_keys:
         - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC4iSLO8ATYM684E1sYDwt2g0beKNQvvNrk/oIlsH093lLR/bthmNn+TSn/wPQf1bPjhPdHg7ZzaB7ZFmmSkbUv6ltcznVpT4FJ85TpTyjdZT8FmGDo+RtGeqvtQCLEpHo2ZcwlEYLmQdgB12XsCXFhVw1WrP7xMWppR58T1CfElHRzBG7r34ZaUuHI0nE4rb7E2I4hLEFHb7pMP6DMdG26WAO2jT4DHWXQ+emKU9RnyaBMqUxkAI2gx+UdTSAqH2q+NJY8mT2ruvYgVbycdcg116Wuzaf8Hwlh8wMER6GNQmdcd+eERn7smXpDakol/k92xbPz75uea6Umj7mYe+vaMUlY/4sMlnktbXqwRhi68kwyHXsRb2VsJUZ0BuN660EkN6FXHa6Oo5S++I0SYuvbc8alxRxZsP922kNzhRAqejtomGSaNrUXrsAZ3QqOuDlZ7Ng4tkU3ivrTcvQNnVTTtyUt9WwHyxeLiYOA9JaubdKUYN3G0aFty4xrbCXcZ0ruObH1Uz59GXRWEM0rd+EdftP3EXNKWtu57k5gcTuw1plePPIAsM2WpkMMHeyKQkpCBM1BQziK1ugpSLX8Cc+5GPMaBHpuQIPH+QspkwvmWPZyT5cWrQ+BPtU0eIyU/HZ4uUmHkRw2/Tk0EcQ5MVXcK/1md8F2DGsL1uL/lSkjjQ== novac@Legion-NB
